@@ -1,4 +1,4 @@
-# Task_08_Basic-Sales-Summary-from-SQLite-using-Python
+# Task_07_Basic-Sales-Summary-from-SQLite-using-Python
 This project demonstrates how to connect to a SQLite database using Python, run SQL queries, process the results with Pandas, and visualize sales data using Matplotlib.
 
 ## Features
